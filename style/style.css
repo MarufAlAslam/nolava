@@ -288,3 +288,13 @@ textarea.form-control.h-75 {
         display: none;
     }
 }
+
+@media screen and (max-width:410px){
+    .form-control.w-100 {
+        width: 350px !important;
+        margin: auto;
+    }
+    input.btn.btn-purple.py-2 {
+        width: 350px;
+    }
+}
