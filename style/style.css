@@ -9,6 +9,9 @@
 body,html{
     overflow-x: hidden !important;
 }
+.fs-21{
+    font-size: 21px;
+}
 .logo.w-25 {
 	width: 15% !important;
 }
